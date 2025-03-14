@@ -131,6 +131,6 @@ const BugList = ({ bugs, selectedBugId, onSelectBug }) => {
       )}
     </div>
   );
-};a
+};
 
 export default BugList;

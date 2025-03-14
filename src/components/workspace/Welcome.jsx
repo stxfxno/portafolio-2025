@@ -153,5 +153,5 @@ const Welcome = ({ openApp }) => {
     </div>
   );
 };
-a
+
 export default Welcome;

@@ -1001,4 +1001,4 @@ const codeSamplesData = [
     }
   ];
   
-  export default codeSamplesData;a
+  export default codeSamplesData;

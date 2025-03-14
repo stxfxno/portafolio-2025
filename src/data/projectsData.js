@@ -707,4 +707,4 @@ const projectsData = [
     }
   ];
   
-  export default projectsData;a
+  export default projectsData;

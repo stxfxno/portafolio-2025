@@ -383,5 +383,5 @@ const ProjectDetail = ({ project, onBack }) => {
     </div>
   );
 };
-a
+
 export default ProjectDetail;

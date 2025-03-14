@@ -195,6 +195,6 @@ const ProcessStageView = ({ stage, projectId }) => {
       </div>
     </div>
   );
-};a
+};
 
 export default ProcessStageView;

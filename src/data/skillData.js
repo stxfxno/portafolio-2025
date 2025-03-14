@@ -180,4 +180,4 @@ const skillsData = {
     ]
   };
   
-  export default skillsData;a
+  export default skillsData;

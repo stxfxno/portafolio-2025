@@ -418,6 +418,6 @@ const BugDetail = ({ bug, onBack }) => {
       </div>
     </div>
   );
-};a
+};
 
 export default BugDetail;

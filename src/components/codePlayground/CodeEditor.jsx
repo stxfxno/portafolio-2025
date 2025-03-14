@@ -46,7 +46,7 @@ const CodeEditor = ({ code, language, onChange }) => {
       highlighted = highlighted.replace(/'([^']*)'/g, '<span class="text-green-400">\'$1\'</span>');
       
       // Reemplazar comentarios (básico)
-      highlighted = highlighted.replace(/\/\/(.*)$/gm, '<span class="text-gray-500">\/\/$1</span>');
+      highlighted = highlighted.replace(/\/\/(.*)$/gm, '<span class="text-gray-500">//$1</span>');
     } else if (language === 'html') {
       // Tags HTML
       highlighted = highlighted.replace(/(&lt;[^&]*&gt;)/g, '<span class="text-red-400">$1</span>');
@@ -129,5 +129,5 @@ const CodeEditor = ({ code, language, onChange }) => {
     </div>
   );
 };
-a
+
 export default CodeEditor;

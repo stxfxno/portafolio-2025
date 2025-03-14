@@ -35,7 +35,6 @@ const CodePlayground = () => {
         // Validar el lenguaje
         if (language === 'javascript') {
           // Para JavaScript, intentar evaluarlo (de forma segura)
-          const consoleOutput = [];
           
           // Crear un entorno de sandbox para la ejecución
           const sandbox = `
@@ -241,6 +240,6 @@ const CodePlayground = () => {
       )}
     </div>
   );
-};a
+};
 
 export default CodePlayground;
