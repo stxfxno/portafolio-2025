@@ -109,5 +109,5 @@ const ProjectTimeline = ({ projects, onSelectProject }) => {
     </div>
   );
 };
-
+a
 export default ProjectTimeline;

@@ -68,6 +68,6 @@ const Dock = ({ apps, openApps, activeApp, onAppClick }) => {
       </div>
     </div>
   );
-};
+};a
 
 export default Dock;

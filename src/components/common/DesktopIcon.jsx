@@ -39,6 +39,6 @@ const DesktopIcon = ({ icon, title, onClick }) => {
       </span>
     </div>
   );
-};
+};a
 
 export default DesktopIcon;

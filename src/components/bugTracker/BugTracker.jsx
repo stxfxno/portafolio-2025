@@ -154,6 +154,6 @@ const BugTracker = () => {
       </div>
     </div>
   );
-};
+};a
 
 export default BugTracker;
