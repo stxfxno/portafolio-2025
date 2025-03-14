@@ -695,4 +695,4 @@ const bugsData = [
     }
   ];
   
-  export default bugsData;
+  export default bugsData;a
